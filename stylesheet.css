@@ -26,7 +26,7 @@ body {
     display: flex;
 }
 .flex .image {
-    width: 320;
+    width: 100%;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -36,6 +36,6 @@ body {
     margin: 0 0 0 20px;
     padding: 0;
     float: left;
-    font-size: 18px;
+    font-size: 20px;
     text-align: left;
 }
